@@ -1,7 +1,21 @@
-[
-	{"palavra": "carro", "contador": 5},
-	{"palavra": "bicicleta", "contador": 25},
-	{"palavra": "onibus", "contador": 2},
-	{"palavra": "skate", "contador": 30},
-	{"palavra": "patins", "contador": 15}
+[{
+		"palavra": "carro",
+		"contador": 5
+	},
+	{
+		"palavra": "bicicleta",
+		"contador": 25
+	},
+	{
+		"palavra": "onibus",
+		"contador": 2
+	},
+	{
+		"palavra": "skate",
+		"contador": 30
+	},
+	{
+		"palavra": "patins",
+		"contador": 15
+	}
 ]
