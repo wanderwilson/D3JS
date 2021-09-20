@@ -3,7 +3,7 @@
   "tarifa": 0,03,
   "children": [
     {
-      "titulo": "Introdução",
+      "name": "Introdução",
       "tarifa": -0,01,
       "children": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "titulo": "O Homem na Idade Média",
+      "name": "O Homem na Idade Média",
       "tarifa": -0,05,
       "children": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "titulo": "O período das navegações",
+      "name": "O período das navegações",
       "tarifa": 0,02,
       "children": [
         {
