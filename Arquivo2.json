@@ -1,17 +1,17 @@
 {
-  "name": "Análise textual",
+  "name": "Budget du Departement",
   "rate": 0.03,
   "children": [
     {
-      "name": "Introdução",
+      "name": "Aménagement et développement durable",
       "rate": -0.01,
       "children": [
         {
-          "name": "Parágrafo 1",
-          "rate": 0,5
+          "name": "Réseau routier et mobilité durable",
+          "rate": 0,
           "children": [
             {
-              "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
+              "name": "Mobilité durable",
               "rate": 0.02,
               "value": 47.1
             },
@@ -28,11 +28,11 @@
           ]
         },
         {
-          "name": "Parágrafo 2",
+          "name": "Développement et attractivité des territoires",
           "rate": -0.1,
           "children": [
             {
-              "name": "A habilidade de um ser humano em realizar funções complexas e principalmente a sua capacidade de aprender advêm do processamento paralelo e distribuído da rede de neurônios do cérebro. Os neurônios do córtex, a camada externa do cérebro, são responsáveis pelo processamento cognitivo. Um novo conhecimento ou uma nova experiência pode levar a alterações estruturais no cérebro. Tais alterações são efetivadas por meio de um rearranjo das redes de neurônios, reforçando ou inibindo algumas sinapses (HAYKIN, 2001, p.32-36).",
+              "name": "Aménagement",
               "rate": -0.16,
               "value": 1.52
             },
@@ -54,11 +54,11 @@
           ]
         },
         {
-          "name": "Parágrafo 3",
+          "name": "Ecologie urbaine",
           "rate": -0.02,
           "children": [
             {
-              "name": "A busca por um modelo computacional que simule o funcionamento das células do cérebro data dos anos 40, com o trabalho de McCulloch e Pitts (1943). O entusiasmo pela pesquisa neste campo cresceu durante os anos 50 e 60. Nesse período, Rosenblatt (1958) propôs um método inovador de aprendizagem para as redes neurais artificiais denominado percepton. Até 1969, muitos trabalhos foram realizados utilizando o percepton como modelo. No final dos anos 60, Minsky e Pappert (1969) publicam um livro no qual apresentam importantes limitações do perceptron. As dificuldades metodológicas e tecnológicas, juntamente com os ataques extremamente pessimistas de Papert e Minsky, fizeram com que as pesquisas arrefecessem nos anos seguintes. Durante os anos 70, a pesquisa contava apenas com um número ínfimo de cientistas. Porém, durante os anos 80, o entusiasmo ressurge graças a avanços metodológicos importantes e ao aumento dos recursos computacionais disponíveis.",
+              "name": "Biodiversité et nature en ville",
               "rate": -0.01,
               "value": 8.96
             },
@@ -77,15 +77,15 @@
       ]
     },
     {
-      "name": "REDES NEURAIS NA RECUPERAÇÃO DE INFORMAÇÃO",
+      "name": "Direction générale",
       "rate": -0.05,
       "children": [
         {
-          "name": "Parágrafo 1",
+          "name": "Direction et animation de l'action départementale",
           "rate": -0.07,
           "children": [
             {
-              "name": "De uma forma simplificada, a recuperação de informação lida com documentos, termos de indexação e as expressões de buscas dos usuários. Pode-se dizer que, em um sistema de recuperação de informação, de um lado estão as expressões de busca, do outro lado estão os documentos e no centro estão os termos de indexação. Essa estrutura pode ser vista como uma rede neural de três camadas: a camada de termos de busca seria a camada de entrada da rede neural, a camada de documentos seria a saída, e a camada de termos de indexação seria uma camada central. A figura 4 mostra um exemplo genérico da aplicação das redes neurais na recuperação de informação.",
+              "name": "Animation du développement social local",
               "rate": 1,
               "value": 0.01
             },
@@ -112,11 +112,11 @@
           ]
         },
         {
-          "name": "Parágrafo 2",
+          "name": "Conduite des politiques départementales",
           "rate": -0.03,
           "children": [
             {
-              "name": "Mozer (1984) foi o pioneiro na utilização de técnicas de redes neurais na recuperação de informação. Ele utilizou uma arquitetura bastante simples que não empregava uma das principais características das redes neurais, que é a capacidade de aprender. A figura 5 mostra um exemplo apresentado por Ford (1991, p.108), que utiliza a arquitetura de rede neural idealizada por Mozer.",
+              "name": "Assemblée départementale",
               "rate": -0.02,
               "value": 2.5
             },
@@ -130,15 +130,15 @@
       ]
     },
     {
-      "name": "REDES NEURAIS NO AMBIENTE WEB",
+      "name": "Personnel et relations sociales",
       "rate": 0.02,
       "children": [
         {
-          "name": "Parágrafo 1",
+          "name": "Ressources humaines",
           "rate": 0.02,
           "children": [
             {
-              "name": "A recuperação de informação no complexo ambiente da Internet é relativamente facilitada pelos mecanismos de busca (search engines), que coletam e indexam uma parte da imensa quantidade de páginas disponíveis na Web. Para facilitar a seleção dos itens recuperados, a maioria dos mecanismos de busca realiza um ordenamento dos resultados, utilizando algum algoritmo que tenta predizer a relevância de cada item para a necessidade de informação do usuário. As primeiras referências são presumivelmente mais relevantes do que as últimas.",
+              "name": "Gestion prévisionnelle des emplois et des compétences",
               "rate": -0.14,
               "value": 1.32
             },
@@ -157,16 +157,15 @@
       ]
     },
     {
-      "name": "REDES NEURAIS OU SISTEMAS ESPECIALISTAS?",
+      "name": "Ressources et moyens des services",
       "rate": 0.05,
       "children": [
         {
-          "name": "pARÁGRAFO 1",
+          "name": "Finances",
           "rate": 0.07,
           "children": [
             {
-              "name": "Quando falamos em redes neurais, estamos falando na criação de bases de conhecimentos, de sistemas inteligentes. Mas atenção! Não há semelhança alguma entre as redes neurais e os sistemas especialistas
-ou aplicações de inteligência artificial. São conceitos e princípios de funcionamento radicalmente diferentes.",
+              "name": "Commande publique",
               "rate": 1,
               "value": 0.02
             },
@@ -178,11 +177,11 @@ ou aplicações de inteligência artificial. São conceitos e princípios de fun
           ]
         },
         {
-          "name": "Parágrafo 2",
+          "name": "Supports internes",
           "rate": 0.01,
           "children": [
             {
-              "name": "Assim como as redes neurais, diversas outras idéias e conceitos desenvolvidos pela ciência da computação podem ser utilizados no tratamento e recuperação da informação. Porém, é desejável que essas idéias sejam implementadas e avaliadas levando-se em conta os avanços teóricos e metodológicos já realizados pelos processos documentários no âmbito da ciência da informação.",
+              "name": "Bâtiments départementaux",
               "rate": 0.04,
               "value": 11.02
             },
@@ -206,16 +205,15 @@ ou aplicações de inteligência artificial. São conceitos e princípios de fun
       ]
     },
     {
-      "name": "GARIMPAGEM DE INFORMAÇÃO EM BASES DE DADOS",
+      "name": "Société et citoyenneté",
       "rate": 0.05,
       "children": [
         {
-          "name": "Parágrafo 1",
+          "name": "Culture, patrimoine, archives",
           "rate": -0.01,
           "children": [
             {
-              "name": "A utilização de dados na criação de bases de conhecimento é o conceito-chave das redes neurais. A pergunta que as redes neurais vêm responder é a seguinte: o que fazer com os gigabytes acumulados nos
-computadores das empresas? Resposta: criar bases de conhecimento",
+              "name": "Archives",
               "rate": 0.14,
               "value": 0.16
             },
@@ -232,11 +230,11 @@ computadores das empresas? Resposta: criar bases de conhecimento",
           ]
         },
         {
-          "name": "Parágrafo 2",
+          "name": "Education et jeunesse",
           "rate": 0.14,
           "children": [
             {
-              "name": "Com a evolução da tecnologia de informática, alcançou-se um estágio em que os dados se tornam facilmente acessíveis e manipuláveis por meio de sofisticados sistemas de consulta, como os Executivo Information Systems (EIS).",
+              "name": "Accueil des collégiens et de la communauté éducative",
               "rate": 0.17,
               "value": 33.85
             },
@@ -257,11 +255,11 @@ computadores das empresas? Resposta: criar bases de conhecimento",
           ]
         },
         {
-          "name": "Parágrafo 3",
+          "name": "Citoyenneté active, solidarité internationale et Sport",
           "rate": -0.25,
           "children": [
             {
-              "name": "Eles estão evidentemente vazios no que diz respeito ao conhecimento, como é o caso de uma planilha eletrônica (Lotus, Excel etc.), onde o utilizador irá desenvolver sua própria aplicação. No caso das redes neurais, cabe ao usuário fornecer os dados a serem levados em conta e indicar à rede o que ele quer que ela aprenda.",
+              "name": "Promotion de la vie associative et démocratie participative",
               "rate": 1,
               "value": 0
             },
@@ -280,15 +278,15 @@ computadores das empresas? Resposta: criar bases de conhecimento",
       ]
     },
     {
-      "name": "CONCLUSÃO",
+      "name": "Solidarité",
       "rate": 0.03,
       "children": [
         {
-          "name": "Parágrafo 1",
+          "name": "Enfance et famille",
           "rate": -0.02,
           "children": [
             {
-              "name": "A utilização das redes neurais artificiais em sistemas de recuperação de informação permite atribuir a tais sistemas um caráter dinâmico. Esta dinamicidade pode ser implementada mediante a participação ativa dos usuários em um processo contínuo de representação dos documentos do corpus ou mediante a aprendizagem de certas condições específicas no contexto de uma única busca, como é o caso do metabuscador Anvish.",
+              "name": "Accueil de la petite enfance",
               "rate": -0.04,
               "value": 20.84
             },
@@ -305,11 +303,11 @@ computadores das empresas? Resposta: criar bases de conhecimento",
           ]
         },
         {
-          "name": "Parágrafo 2",
+          "name": "Solidarité, insertion, santé",
           "rate": 0.07,
           "children": [
             {
-              "name": "Assim como as redes neurais, diversas outras idéias e conceitos desenvolvidos pela ciência da computação podem ser utilizados no tratamento e recuperação da informação. Porém, é desejável que essas idéias sejam implementadas e avaliadas levando-se em conta os avanços teóricos e metodológicos já realizados pelos processos documentários no âmbito da ciência da informação.",
+              "name": "Accompagnement social",
               "rate": -0.05,
               "value": 17.58
             },
@@ -336,11 +334,11 @@ computadores das empresas? Resposta: criar bases de conhecimento",
           ]
         },
         {
-          "name": "Parágrafo 3",
+          "name": "Autonomie",
           "rate": 0.01,
           "children": [
             {
-              "name": "Os métodos e técnicas desenvolvidos pela ciência da computação devem ser continuamente estudados e até absorvidos pela ciência da informação. Porém, o profissional da informação deve ter sempre em mente que a ciência da informação não poderá ser desenvolvida no vazio cultural de um sistema de raciocínio algorítmico.",
+              "name": "Personnes âgées",
               "rate": 0.01,
               "value": 197.43
             },
