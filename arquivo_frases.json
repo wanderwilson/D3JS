@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "CONCLUSÃO",
+      "name": "REDES NEURAIS OU SISTEMAS ESPECIALISTAS?",
       "rate": 0,05,
       "children": [
         {
@@ -97,7 +97,8 @@
           "rate": 0,07,
           "children": [
             {
-              "name": "A utilização das redes neurais artificiais em sistemas de recuperação de informação permite atribuir a tais sistemas um caráter dinâmico. Esta dinamicidade pode ser implementada mediante a participação ativa dos usuários em um processo contínuo de representação dos documentos do corpus ou mediante a aprendizagem de certas condições específicas no contexto de uma única busca, como é o caso do metabuscador Anvish.",
+              "name": "Quando falamos em redes neurais, estamos falando na criação de bases de conhecimentos, de sistemas inteligentes. Mas atenção! Não há semelhança alguma entre as redes neurais e os sistemas especialistas
+ou aplicações de inteligência artificial. São conceitos e princípios de funcionamento radicalmente diferentes.",
               "rate": 1,
               "value": 0,02
         },
@@ -106,9 +107,8 @@
           "rate": 0,01,
           "children": [
             {
-              "name": "Assim como as redes neurais, diversas outras idéias e conceitos desenvolvidos pela ciência da computação podem ser utilizados no tratamento e recuperação da informação. Porém, é desejável que essas idéias sejam implementadas e avaliadas levando-se em conta os avanços teóricos e metodológicos já realizados pelos processos documentários no âmbito da ciência da informação.
-
-",
+              "name": "O processo de raciocínio do especialista é muitas vezes representado pelo
+que se chamam regras de produção do tipo se condição então ação, Essas regras são cuidadosamente coletadas por um engenheiro do conhecimento por meio de entrevistas com um especialista da área na qual se quer criar a base de conhecimento.",
               "rate": 0,04,
               "value": 11.02
             },
