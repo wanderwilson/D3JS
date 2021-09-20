@@ -4,11 +4,11 @@
     "children": [
       {
         "name": "Introdução",
-        "rate": 1.9,
+        "rate": 0.1,
         "children": [
           {
             "name": "Parágrafos",
-            "rate": 3,
+            "rate": 0.3,
             "children": [
               {
                 "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
@@ -35,7 +35,7 @@
         "children": [
           {
             "name": "Parágrafos",
-            "rate": 3,
+            "rate": 0.3,
             "children": [
               {
                 "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
