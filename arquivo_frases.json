@@ -1,155 +1,155 @@
 {
   "name": "Análise textual",
-  "tarifa": 0,03,
+  "rate": 0,03,
   "children": [
     {
-      "name": "Introdução",
-      "tarifa": -0,01,
+      "titulo": "Introdução",
+      "rate": -0,01,
       "children": [
         {
           "name": "Paragrafo 1",
-          "tarifa": 0,
+          "rate": 0,
           "children": [
             {
               "name": "Mobilidade sustentável",
-              "tarifa": 0,02,
-              "valor": 47,1
+              "rate": 0,02,
+              "value": 47,1
             },
             {              "name": "UDP e infra-estrutura de transporte público",
-              "tarifa": -2,92,
-              "valor": 0,21
+              "rate": -2,92,
+              "value": 0,21
             },
             {
               "name": "Rede rodoviária",
-              "tarifa": -0,07,
-              "valor": 5,23
+              "rate": -0,07,
+              "value": 5,23
             }
           ]
         },
         {
           "name": "Paragrafo 2",
-          "tarifa": -0,1,
+          "rate": -0,1,
           "children": [
             {
               "name": "Planejamento",
-              "tarifa": -0,16,
-              "valor": 1,52
+              "rate": -0,16,
+              "value": 1,52
             },
             {
               "name": "Desenvolvimento econômico e promoção do território",
-              "tarifa": -0,17,
-              "valor": 3.03
+              "rate": -0,17,
+              "value": 3.03
             },
             {
               "name": "Economia social e solidária, emprego e treinamento",
-              "tarifa": -0,05,
-              "valor": 1,82
+              "rate": -0,05,
+              "value": 1,82
             },
             {
               "name": "Política urbana e habitação",
-              "tarifa": 0,36,
-              "valor": 0,49
+              "rate": 0,36,
+              "value": 0,49
             }
           ]
         },
         {
           "name": "Paragrafo 3",
-          "tarifa": -0,02,
+          "rate": -0,02,
           "children": [
             {
               "name": "Biodiversidade e natureza na cidade",
-              "tarifa": -0,01,
-              "valor": 8,96
+              "rate": -0,01,
+              "value": 8,96
             },
             {
               "name": "Ambiente de vida",
-              "tarifa": 0,42,
-              "valor": 0,01
+              "rate": 0,42,
+              "value": 0,01
             },
             {
               "name": "Qualidade do ambiente urbano",
-              "tarifa": -0,03,
-              "valor": 3,82
+              "rate": -0,03,
+              "value": 3,82
             }
           ]
         }
       ]
     },
     {
-      "name": "O Homem na Idade Média",
-      "tarifa": -0,05,
+      "titulo": "O Homem na Idade Média",
+      "rate": -0,05,
       "children": [
         {
           "name": "Paragrafo 1",
-          "tarifa": -0,07,
+          "rate": -0,07,
           "children": [
             {
               "name": "Animação do desenvolvimento social local",
-              "tarifa": 1,
-              "valor": 0,01
+              "rate": 1,
+              "value": 0,01
             },
             {
               "name": "Animação e gestão de projetos europeus",
-              "tarifa": -0,48,
-              "valor": 0,07
+              "rate": -0,48,
+              "value": 0,07
             },
             {
               "name": "Auditoria Interna",
-              "tarifa": -0,86,
-              "valor": 0,02
+              "rate": -0,86,
+              "value": 0,02
             },
             {
               "name": "Informação e comunicação",
-              "tarifa": -0,07,
-              "valor": 2,9
+              "rate": -0,07,
+              "value": 2,9
             },
             {
               "name": "Direção e Estratégia",
-              "tarifa": -0,02,
-              "valor": 0,68
+              "rate": -0,02,
+              "value": 0,68
             }
           ]
         },
         {
           "name": "Paragrafo 2",
-          "tarifa": -0,03,
+          "rate": -0,03,
           "children": [
             {
               "name": "Assemblée départementale",
-              "tarifa": -0,02,
-              "valor": 2,5
+              "rate": -0,02,
+              "value": 2,5
             },
             {
               "name": "Meios dos grupos políticos",
-              "tarifa": -0,11,
-              "valor": 0,39
+              "rate": -0,11,
+              "value": 0,39
             }
           ]
         }
       ]
     },
     {
-      "name": "O período das navegações",
-      "tarifa": 0,02,
+      "titulo": "O período das navegações",
+      "rate": 0,02,
       "children": [
         {
           "name": "Paragrafo 1",
-          "tarifa": 0,02,
+          "rate": 0,02,
           "children": [
             {
               "name": "Gestion prévisionnelle des emplois et des compétences",
-              "tarifa": -0,14,
-              "valor": 1,32
+              "rate": -0,14,
+              "value": 1,32
             },
             {
               "name": "Política salarial e gestão de carreira",
-              "tarifa": 0,02,
-              "valor": 328,73
+              "rate": 0,02,
+              "value": 328,73
             },
             {
               "name": "Relações sociais e saúde ocupacional",
-              "tarifa": 0,02,
-              "valor": 3,7
+              "rate": 0,02,
+              "value": 3,7
             }
           ]
         }
@@ -157,39 +157,39 @@
     },
     {
       "name": "Recursos e meios de serviços",
-      "tarifa": 0,05,
+      "rate": 0,05,
       "children": [
         {
           "name": "Paragrafo 1",
-          "tarifa": 0,07,
+          "rate": 0,07,
           "children": [
             {
               "name": "Compras públicas",
-              "tarifa": 1,
-              "valor": 0,02
+              "rate": 1,
+              "value": 0,02
             },
             {
               "name": "Estratégia orçamentária e financeira",
-              "tarifa": 0,07,
-              "valor": 75,1
+              "rate": 0,07,
+              "value": 75,1
             }
           ]
         },
         {
           "name": "Paragrafo 2",
-          "tarifa": 0,01,
+          "rate": 0,01,
           "children": [
             {
               "name": "Edifícios departamentais",
-              "tarifa": 0,04,
-              "valor": 11.02
+              "rate": 0,04,
+              "value": 11.02
             },
             {
               "name": "Logística",
-              "tarifa": 0,02,
-              "valor": 15,11
+              "rate": 0,02,
+              "value": 15,11
             },
             {
               "name": "Bens imóveis e segurança jurídica",
-              "tarifa":
+              "rate":
 
