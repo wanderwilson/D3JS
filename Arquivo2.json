@@ -4,15 +4,15 @@
     "children": [
       {
         "name": "Introdução",
-        "rate": 0.5,
+        "rate": 0.51,
         "children": [
           {
             "name": "Parágrafos",
-            "rate": 0.5,
+            "rate": 0.51,
             "children": [
               {
                 "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
-                "rate": 0.17,
+                "rate": 0.18,
                 "value": 116
               },
               {
@@ -31,11 +31,11 @@
       },
       {
         "name": "REDES NEURAIS NA RECUPERAÇÃO DE INFORMAÇÃO",
-        "rate": 0.5,
+        "rate": 0.49,
         "children": [
           {
             "name": "Parágrafos",
-            "rate": 0.5,
+            "rate": 0.49,
             "children": [
               {
                 "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
