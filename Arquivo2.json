@@ -1,10 +1,10 @@
 {
     "name": "Redes neurais e sua aplicação em sistemas de recuperação de informação",
-    "rate": 0.03,
+    "rate": 676,
     "children": [
       {
         "name": "Introdução",
-        "rate": 0.338,
+        "rate": 338,
         "children": [
           {
             "name": "Parágrafos",
