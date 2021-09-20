@@ -3,7 +3,7 @@
   "rate": 0,03,
   "children": [
     {
-      "titulo": "Introdução",
+      "name": "Introdução",
       "rate": -0,01,
       "children": [
         {
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "titulo": "O Homem na Idade Média",
+      "name": "O Homem na Idade Média",
       "rate": -0,05,
       "children": [
         {
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "titulo": "O período das navegações",
+      "name": "O período das navegações",
       "rate": 0,02,
       "children": [
         {
