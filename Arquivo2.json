@@ -1,10 +1,10 @@
 {
     "name": "Redes neurais e sua aplicação em sistemas de recuperação de informação",
-    "rate": 676,
+    "rate": 0.676,
     "children": [
       {
         "name": "Introdução",
-        "rate": 338,
+        "rate": 0.338,
         "children": [
           {
             "name": "Parágrafos",
@@ -13,7 +13,7 @@
               {
                 "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
                 "rate": 0.116,
-                "value": 0.17
+                "value": 17
               },
               {
                 "name": "A habilidade de um ser humano em realizar funções complexas e principalmente a sua capacidade de aprender advêm do processamento paralelo e distribuído da rede de neurônios do cérebro. Os neurônios do córtex, a camada externa do cérebro, são responsáveis pelo processamento cognitivo. Um novo conhecimento ou uma nova experiência pode levar a alterações estruturais no cérebro. Tais alterações são efetivadas por meio de um rearranjo das redes de neurônios, reforçando ou inibindo algumas sinapses (HAYKIN, 2001, p.32-36).",
