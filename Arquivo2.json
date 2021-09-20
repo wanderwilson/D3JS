@@ -3,26 +3,26 @@
     "rate": 0.03,
     "children": [
       {
-        "name": "Aménagement et développement durable",
+        "name": "Introdução",
         "rate": -0.01,
         "children": [
           {
-            "name": "Réseau routier et mobilité durable",
-            "rate": 0,
+            "name": "Parágrafos",
+            "rate": 3,
             "children": [
               {
-                "name": "Mobilité durable",
-                "rate": 0.02,
+                "name": "Sabe-se que o cérebro é composto de bilhões de neurônios. Um neurônio é uma célula formada por três seções com funções específicas e complementares: corpo, dendritos e axônio. Os dendritos captam os estímulos recebidos em um determinado período de tempo e os transmitem ao corpo do neurônio, onde são processados. Quando tais estímulos atingirem determinado limite, o corpo da célula envia novo impulso que se propaga pelo axônio e é transmitido às células vizinhas por meio de sinapses. Este processo pode se repetir em várias camadas de neurônios. Como resultado, a informação de entrada é processada, podendo levar o cérebro a comandar reações físicas. A figura 1 ilustra de forma simplificada as partes de um neurônio.",
+                "rate": 0.5,
                 "value": 47.1
               },
               {
-                "name": "PDU et infrastructures de transports en commun",
-                "rate": -2.92,
+                "name": "A habilidade de um ser humano em realizar funções complexas e principalmente a sua capacidade de aprender advêm do processamento paralelo e distribuído da rede de neurônios do cérebro. Os neurônios do córtex, a camada externa do cérebro, são responsáveis pelo processamento cognitivo. Um novo conhecimento ou uma nova experiência pode levar a alterações estruturais no cérebro. Tais alterações são efetivadas por meio de um rearranjo das redes de neurônios, reforçando ou inibindo algumas sinapses (HAYKIN, 2001, p.32-36).",
+                "rate": 2.92,
                 "value": 0.21
               },
               {
-                "name": "Réseau routier",
-                "rate": -0.07,
+                "name": "A busca por um modelo computacional que simule o funcionamento das células do cérebro data dos anos 40, com o trabalho de McCulloch e Pitts (1943). O entusiasmo pela pesquisa neste campo cresceu durante os anos 50 e 60. Nesse período, Rosenblatt (1958) propôs um método inovador de aprendizagem para as redes neurais artificiais denominado percepton. Até 1969, muitos trabalhos foram realizados utilizando o percepton como modelo. No final dos anos 60, Minsky e Pappert (1969) publicam um livro no qual apresentam importantes limitações do perceptron. As dificuldades metodológicas e tecnológicas, juntamente com os ataques extremamente pessimistas de Papert e Minsky, fizeram com que as pesquisas arrefecessem nos anos seguintes. Durante os anos 70, a pesquisa contava apenas com um número ínfimo de cientistas. Porém, durante os anos 80, o entusiasmo ressurge graças a avanços metodológicos importantes e ao aumento dos recursos computacionais disponíveis.",
+                "rate": 0.07,
                 "value": 5.23
               }
             ]
