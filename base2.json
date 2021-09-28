@@ -1,0 +1,27 @@
+{
+    "name": "EVASÃO NA DISCIPLINA DE ALGORITMO E PROGRAMAÇÃO",
+    "value": 100,
+    "children": [
+        {
+            "name": "Introdução",
+            "value": 75,
+            "children": [
+                {"name": "evasão", "value": 25},
+                {"name": "superior", "value": 25},
+                {"name": "computação", "value": 25}
+            ]
+        },
+        {
+            "name": "Metodologia da Investigação",
+            "children": [
+                {"name": "estudo",  "value": 25},
+                {"name": "cancelamento", "value": 25},
+                {"name": "disciplina", "value": 25}
+            ]
+        },
+        {
+            "name": "Conclusão",
+            "value": 20
+        }
+    ]
+}
