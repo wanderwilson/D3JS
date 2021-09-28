@@ -4,7 +4,7 @@
       {
           "id": 0,
           "guid": "5492cff6-22a3-44f7-bc4e-c7635c2ac076",
-          "name": "Seção: 0",
+          "name": "Seção: Introdução",
           "children": [
               {
                   "id": 0,
@@ -543,7 +543,7 @@
       {
           "id": 1,
           "guid": "19a85072-5466-4cd9-b436-f99f714d48e4",
-          "name": "Seção: 1",
+          "name": "Seção: Fundamentação Teórica",
           "children": [
               {
                   "id": 0,
@@ -1138,7 +1138,7 @@
       {
           "id": 2,
           "guid": "7182eb0c-ad64-4d2d-bba7-197a9ace47a4",
-          "name": "Seção: 2",
+          "name": "Seção: Resultados Experimentais",
           "children": [
               {
                   "id": 0,
@@ -1740,7 +1740,7 @@
       {
           "id": 3,
           "guid": "e7956382-82c7-4e5c-9f5e-dc523a53adbd",
-          "name": "Seção: 3",
+          "name": "Seção: Análise dos dados e resultados encontrados",
           "children": [
               {
                   "id": 0,
@@ -2090,7 +2090,7 @@
       {
           "id": 4,
           "guid": "a45b2d12-3563-47d7-894e-2714e3cdb053",
-          "name": "Seção: 4",
+          "name": "Seção: Conclusão",
           "children": [
               {
                   "id": 0,
