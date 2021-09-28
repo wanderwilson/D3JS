@@ -1,15 +1,15 @@
 {
-    "name": "St. Somewhere",
+    "name": "Desempenho de algoritmos de aprendizagem por reforço sob condições de ambiguidade sensorial em robótica móvel",
     "children": [
       {
           "id": 0,
           "guid": "5492cff6-22a3-44f7-bc4e-c7635c2ac076",
-          "name": "Parágrafo: 0",
+          "name": "Seção: 0",
           "children": [
               {
                   "id": 0,
                   "guid": "9bf1c9bf-8598-47ab-98eb-7785d979a92e",
-                  "name": "Section: 0",
+                  "name": "Parágrafo: 0",
                   "children": [
                       {
                           "id": 0,
@@ -226,7 +226,7 @@
               {
                   "id": 1,
                   "guid": "8339cc9e-28ad-4c2f-8b54-e06d7360f2a5",
-                  "name": "Section: 1",
+                  "name": "Parágrafo: 1",
                   "children": [
                       {
                           "id": 0,
@@ -366,7 +366,7 @@
               {
                   "id": 2,
                   "guid": "ea4abba0-ed08-4948-b377-0ac2a6774be6",
-                  "name": "Section: 2",
+                  "name": "Parágrafo: 2",
                   "children": [
                       {
                           "id": 0,
@@ -529,7 +529,7 @@
                               },
                               {
                                   "id": 3,
-                                  "name": "Patient: WoodParágrafo French",
+                                  "name": "Patient: WoodSeção French",
                                   "value": 2,
                                   "notes": "Quis aliqua sit commodo proident cupidatat dolore ipsum cupidatat deserunt reprehenderit. Laborum incididunt reprehenderit officia elit pariatur eiusmod labore Lorem minim. Eiusmod ex voluptate et labore velit mollit elit in elit ipsum. Ullamco eu veniam consectetur non.\r\nMagna aliquip occaecat elit sunt consectetur ea laboris reprehenderit aliquip mollit incididunt eiusmod ullamco. Reprehenderit in duis velit culpa enim. Irure consequat tempor proident ad sit aliqua pariatur.\r\nIpsum pariatur adipisicing incididunt proident laboris aliqua veniam. Sit Lorem nostrud esse sint velit anim aliquip sunt. Ipsum eu ipsum eiusmod sit esse cillum reprehenderit voluptate labore veniam id. Et eiusmod sunt nisi nulla aliquip minim minim sint non proident aliqua ex incididunt voluptate.\r\n",
                                   "url": "http://google.com"
@@ -543,12 +543,12 @@
       {
           "id": 1,
           "guid": "19a85072-5466-4cd9-b436-f99f714d48e4",
-          "name": "Parágrafo: 1",
+          "name": "Seção: 1",
           "children": [
               {
                   "id": 0,
                   "guid": "f390f4cd-fd55-4d3a-968f-1a883c3ab123",
-                  "name": "Section: 0",
+                  "name": "Parágrafo: 0",
                   "children": [
                       {
                           "id": 0,
@@ -737,7 +737,7 @@
               {
                   "id": 1,
                   "guid": "410794fb-7bc2-4782-9be5-9df7fbafa0c5",
-                  "name": "Section: 1",
+                  "name": "Parágrafo: 1",
                   "children": [
                       {
                           "id": 0,
@@ -933,7 +933,7 @@
               {
                   "id": 2,
                   "guid": "9d380d5e-9677-4f74-97f8-66063993d4bc",
-                  "name": "Section: 2",
+                  "name": "Parágrafo: 2",
                   "children": [
                       {
                           "id": 0,
@@ -1078,7 +1078,7 @@
                       {
                           "id": 5,
                           "badge": "fc96ba46-2a4f-4f33-8478-555f6b3fec8f",
-                          "name": "Nurse: EdParágrafos Newton",
+                          "name": "Nurse: EdSeçãos Newton",
                           "children": [
                               {
                                   "id": 0,
@@ -1138,12 +1138,12 @@
       {
           "id": 2,
           "guid": "7182eb0c-ad64-4d2d-bba7-197a9ace47a4",
-          "name": "Parágrafo: 2",
+          "name": "Seção: 2",
           "children": [
               {
                   "id": 0,
                   "guid": "6dad2915-19dd-4fbb-81e9-e05e060a8f09",
-                  "name": "Section: 0",
+                  "name": "Parágrafo: 0",
                   "children": [
                       {
                           "id": 0,
@@ -1311,7 +1311,7 @@
               {
                   "id": 1,
                   "guid": "6f4390a4-516c-40a3-afa9-3c1ae58daf5a",
-                  "name": "Section: 1",
+                  "name": "Parágrafo: 1",
                   "children": [
                       {
                           "id": 0,
@@ -1521,7 +1521,7 @@
               {
                   "id": 2,
                   "guid": "c6c5576a-bcb7-4336-95e6-bfbe98621932",
-                  "name": "Section: 2",
+                  "name": "Parágrafo: 2",
                   "children": [
                       {
                           "id": 0,
@@ -1656,7 +1656,7 @@
                           "children": [
                               {
                                   "id": 0,
-                                  "name": "Patient: Viola WoodParágrafo",
+                                  "name": "Patient: Viola WoodSeção",
                                   "value": 3,
                                   "notes": "Reprehenderit exercitation consequat quis enim officia. Consectetur consequat minim ad ad occaecat sint labore ea duis nostrud velit. Sit amet velit eu reprehenderit.\r\nDo reprehenderit id amet aute amet mollit ullamco. Qui ullamco elit duis minim eiusmod ipsum ad esse mollit. Aliqua non reprehenderit esse sit cillum. Tempor nostrud mollit non incididunt adipisicing ullamco amet elit. Cupidatat nisi culpa qui incididunt. Velit do ea tempor dolore velit. Qui voluptate officia aliquip duis veniam incididunt est deserunt nostrud officia fugiat dolore.\r\nAute commodo irure irure commodo qui ad deserunt deserunt magna sint cillum. Culpa exercitation minim aute ea minim dolor laboris dolore minim aliquip dolore. Incididunt magna nisi cupidatat do elit cupidatat ipsum sunt occaecat sint duis.\r\n",
                                   "url": "http://google.com"
@@ -1740,12 +1740,12 @@
       {
           "id": 3,
           "guid": "e7956382-82c7-4e5c-9f5e-dc523a53adbd",
-          "name": "Parágrafo: 3",
+          "name": "Seção: 3",
           "children": [
               {
                   "id": 0,
                   "guid": "fb5766b8-c022-4155-84d2-dca73a6d3182",
-                  "name": "Section: 0",
+                  "name": "Parágrafo: 0",
                   "children": [
                       {
                           "id": 0,
@@ -1899,7 +1899,7 @@
               {
                   "id": 1,
                   "guid": "1161af0c-1403-4e4a-877e-5d91563d74ea",
-                  "name": "Section: 1",
+                  "name": "Parágrafo: 1",
                   "children": [
                       {
                           "id": 0,
@@ -2090,12 +2090,12 @@
       {
           "id": 4,
           "guid": "a45b2d12-3563-47d7-894e-2714e3cdb053",
-          "name": "Parágrafo: 4",
+          "name": "Seção: 4",
           "children": [
               {
                   "id": 0,
                   "guid": "fa7f54a8-0de9-4cee-b971-ce77f4d03277",
-                  "name": "Section: 0",
+                  "name": "Parágrafo: 0",
                   "children": [
                       {
                           "id": 0,
@@ -2270,7 +2270,7 @@
               {
                   "id": 1,
                   "guid": "4618cc6c-314d-4acf-8cd2-f60680daab0a",
-                  "name": "Section: 1",
+                  "name": "Parágrafo: 1",
                   "children": [
                       {
                           "id": 0,
