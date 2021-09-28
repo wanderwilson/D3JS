@@ -14,32 +14,32 @@
                       {
                           "id": 0,
                           "badge": "c4599439-5fa4-4bf5-bb3d-01bd2e8761c0",
-                          "name": "Nurse: Cantu Ortiz",
+                          "name": "Métodos de aprendizagem por reforço (Sutton, R. S. e Barto, A. G. (1998)) tratam de situações onde um agente aprende por tentativa e erro ao atuar sobre um ambiente dinâmico. Desta maneira, não é necessária uma entidade externa que forneça exemplos ou um modelo a respeito da tarefa a ser executada: a única fonte de aprendizado é a própria experiência do agente, cujo objetivo formal é adquirir uma política de ações que maximize seu desempenho geral.",
                           "children": [
                               {
                                   "id": 0,
-                                  "name": "Patient: Geraldine Duke",
+                                  "name": "métodos",
                                   "value": 1,
                                   "notes": "Exercitation incididunt eu esse nostrud do. Eu quis dolore dolor est eu non laborum labore irure anim consectetur fugiat sint laboris. Voluptate eu aliqua eiusmod aute ipsum minim culpa reprehenderit ex. Dolor ipsum officia officia laborum do est minim ipsum proident pariatur commodo incididunt sint aute.\r\nVelit proident eiusmod pariatur dolore consequat deserunt consectetur cillum deserunt ad duis consequat. Do dolore veniam ex incididunt commodo excepteur cupidatat dolore culpa magna nulla dolore exercitation aute. Sint amet labore et culpa minim non aliqua occaecat occaecat nostrud magna. Exercitation id voluptate amet anim officia ut magna Lorem non cupidatat anim. Ea elit ullamco cillum Lorem. Consectetur cillum occaecat sit veniam aliquip veniam veniam labore quis in id consectetur.\r\nSunt et elit commodo exercitation consequat irure qui incididunt aliqua deserunt dolore incididunt quis aliqua. Minim irure enim magna eiusmod reprehenderit aliquip id id irure elit id aute. Adipisicing aute ad tempor cupidatat. Consectetur sit magna deserunt excepteur id exercitation sunt cupidatat enim esse. Nostrud mollit velit do qui ipsum culpa cillum sit deserunt anim eu. Dolore non ad magna consectetur irure esse consequat aliqua eu.\r\n",
                                   "url": "http://google.com"
                               },
                               {
                                   "id": 1,
-                                  "name": "Patient: Lorrie Mullins",
+                                  "name": "aprendizagem",
                                   "value": 3,
                                   "notes": "Veniam amet esse tempor occaecat ut Lorem non officia magna est ipsum Lorem. Occaecat labore laboris pariatur nulla nostrud labore anim non laborum ullamco. Est est magna magna dolore ipsum qui eiusmod excepteur minim anim aliqua cillum. Culpa non esse non reprehenderit dolor consequat ullamco magna officia tempor reprehenderit commodo dolore. Aliqua quis eiusmod sint fugiat.\r\nSunt laboris est cillum ad duis eiusmod voluptate cillum velit nulla occaecat occaecat ullamco. Consectetur cillum deserunt eiusmod tempor. Aute excepteur amet aute commodo proident qui. Sunt dolor proident sint sit Lorem deserunt id minim ea. Et id irure exercitation qui consequat voluptate fugiat sint aliqua esse officia.\r\nMollit ex fugiat enim qui mollit magna aute tempor Lorem dolor nulla commodo tempor duis. Sunt nostrud anim ullamco in. Fugiat labore exercitation do voluptate minim laboris ipsum ipsum ad.\r\n",
                                   "url": "http://google.com"
                               },
                               {
                                   "id": 2,
-                                  "name": "Patient: Minnie Cross",
+                                  "name": "reforço",
                                   "value": 2,
                                   "notes": "Ex ullamco aliquip enim culpa non. Tempor culpa ut pariatur duis dolore quis ea dolore minim dolor. Eu cupidatat voluptate ex eu minim do. Aliquip non exercitation mollit enim adipisicing ipsum. Mollit ullamco duis irure in cillum irure aute sit ipsum incididunt in. Irure qui fugiat consequat anim ullamco irure consequat ut magna dolore veniam. Est nisi pariatur ipsum consectetur irure non id officia tempor.\r\nFugiat tempor anim sit velit proident voluptate. Proident duis magna cupidatat consectetur et. Proident Lorem consectetur minim laboris quis adipisicing nulla. Dolor Lorem ad nulla quis proident veniam cillum deserunt elit cillum est est exercitation consectetur. Elit officia non sint ullamco magna consequat ullamco nisi labore tempor elit irure esse.\r\nMinim anim voluptate non do eu eiusmod officia aliquip reprehenderit duis esse. Ea cupidatat qui ut sit culpa exercitation esse sunt. Ad consectetur esse commodo sit nulla quis dolor laboris. Duis eiusmod irure sunt et minim irure.\r\n",
                                   "url": "http://google.com"
                               },
                               {
                                   "id": 3,
-                                  "name": "Patient: Key Mcfarland",
+                                  "name": "ambiente",
                                   "value": 3,
                                   "notes": "Mollit et nisi voluptate nostrud aute anim ea sint reprehenderit. Reprehenderit irure proident do elit proident excepteur ea Lorem. Enim sit occaecat esse adipisicing qui cillum culpa ut dolore veniam eu magna reprehenderit labore. Est dolore sunt magna mollit dolor commodo nisi aute aliquip reprehenderit eu incididunt quis.\r\nSunt qui irure ipsum consequat qui excepteur officia fugiat magna. Velit voluptate quis velit mollit aliquip exercitation aliquip adipisicing sint culpa in fugiat esse nisi. Irure tempor eiusmod nostrud ex mollit laborum deserunt deserunt in. Ullamco aliquip adipisicing exercitation velit cupidatat aute id incididunt. Ex anim qui tempor nulla proident commodo sunt incididunt enim.\r\nQuis Lorem esse anim dolor veniam occaecat. Aute cillum laborum laboris culpa deserunt ullamco velit nulla sit amet magna dolor. Duis velit in officia laborum commodo cillum aliquip culpa qui velit nostrud nostrud excepteur. Amet voluptate dolor labore mollit consectetur quis excepteur reprehenderit tempor ipsum ullamco. Exercitation ea qui veniam laborum dolore duis sunt. Cupidatat laboris ullamco do non. Excepteur ad cillum est dolor occaecat mollit irure adipisicing aliqua minim tempor culpa.\r\n",
                                   "url": "http://google.com"
